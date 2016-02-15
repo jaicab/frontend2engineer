@@ -1,10 +1,10 @@
 # frontend2engineer
-Everything a JS engineer knows that a web developer doesn't.
+Everything JS engineers know that some web developers don't.
 
 Imagine a web developer asks you:  
-__What do I need to step up my JS skills and work in JS full-time (besides experience)?__
+__What do I need (besides experience) to step up my JS skills and work solely with JS?__
 
-This developer usually knows basic HTML and CSS, and uses JavaScript only in the form of jQuery plugins and some jQuery events, but doesn't know much pure JS or how it works. He/she likes JS a lot and doesn't know the path to become what nowadays is called a _JS engineer_, a person who solely works on JS, alongside a UI developer/frontend architect who cares about patterns (so deals with HTML and CSS) and maybe mantains a style guide.
+This developer usually knows basic HTML and CSS, and uses JavaScript only in the form of jQuery plugins and some jQuery events, but doesn't know much pure JS or how it works. He/she likes JS a lot but doesn't know the path to become what nowadays is called a _JS engineer_, a person who solely works on JS, alongside a UI developer/frontend architect who cares about patterns (so deals with HTML and CSS) and maybe mantains a style guide.
 
 Let's gather a common response, you can find below.
 
