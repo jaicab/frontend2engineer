@@ -1,7 +1,12 @@
 # frontend2engineer
 Everything a JS engineer knows that the average frontend developer doesn't.
 
-Imagine the average frontend developer asks you: what do I need to step up to JS engineer (besides experience)? 
+Imagine the average frontend developer asks you:  
+__What do I need to step up to JS engineer (besides experience)?__
+
+Let's gather a common response, you can find below.
+
+Please [submit an issue](https://github.com/jaicab/frontend2engineer/issues/new), open a PR or [fire me a tweet](https://twitter.com/jaicab_) if you would like to anything to the list.
 
 ## Assuming you
 
@@ -13,11 +18,11 @@ Imagine the average frontend developer asks you: what do I need to step up to JS
 
 ## Books to read
 
-- [You Don't Know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
-- [JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- [JavaScript: The Good Parts by Douglas Crockford](http://shop.oreilly.com/product/9780596517748.do)
-- [Pro JavaScript Techniques by John Resig](http://www.apress.com/9781590597279)
-- [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
+- [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
+- [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) by Douglas Crockford
+- [Pro JavaScript Techniques](http://www.apress.com/9781590597279) by John Resig
+- [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja) by John Resig and Bear Bibeault
 
 ## Skills to learn
 
