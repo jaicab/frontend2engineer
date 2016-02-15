@@ -34,10 +34,12 @@ Please [submit an issue](https://github.com/jaicab/frontend2engineer/issues/new)
 
 - Scopes and closure.
 - Understanding of _this_.
+- Understanding IIFEs.
 - Prototypes.
 - Types and grammar.
-- ASYNC and performance.
+- Performance.
 - Promises.
+- ASYNC (waterfall, parallel... see [async.js](https://github.com/caolan/async))
 - MVC (React, Angular, Backbone).
 - Node.js
 - Task runners and bundlers.
