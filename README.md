@@ -49,4 +49,19 @@ Please [submit an issue](https://github.com/jaicab/frontend2engineer/issues/new)
 
 ## It would be nice to know
 
+- Browser APIs (localStorage, canvas, websockets, etc)
 - Data visualization (D3.js)
+- Google APIs (Maps, Analytics, etc)
+
+## If you want to go deep / have fun
+
+- webRTC
+- web audio
+- three.js / webGL
+- Phaser
+
+## Tools you may come across
+
+- Electron
+- Cordova
+- Ionic (for Angular fans)
