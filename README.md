@@ -35,6 +35,7 @@ Please [submit an issue](https://github.com/jaicab/frontend2engineer/issues/new)
 - Scopes and closure.
 - Understanding of _this_.
 - Understanding IIFEs.
+- Understanding strict mode (`"use strict"`);
 - Prototypes.
 - Types and grammar.
 - Performance.
